@@ -1,1 +1,1 @@
-Lấy dữ liệu thức ăn, đồ uống từ ShopeeFood dựa vào API mà ShopeeFood trả về json cho client (F12 trong phần Network: https://gappapi.deliverynow.vn/api/dish/get_delivery_dishes?id_type=<num>&request_id=<num>)
+Lấy dữ liệu thức ăn, đồ uống từ ShopeeFood dựa vào API mà ShopeeFood trả về json cho client ( F12 trong phần Network: https://gappapi.deliverynow.vn/api/dish/get_delivery_dishes?id_type=<num>&request_id=<num> )

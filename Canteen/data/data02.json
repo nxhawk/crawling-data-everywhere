@@ -1,0 +1,3087 @@
+{
+    "reply": {
+        "menu_infos": [
+            {
+                "dish_type_id": 102211,
+                "dish_type_name": "CƠM RANG (BÁN BUỔI TRƯA)",
+                "dishes": [
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "55,000đ",
+                            "unit": "đ",
+                            "value": 55000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/df9ca13b-082a-4dd6-80a8-d98373fe-fb46152b-230605104019.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/df9ca13b-082a-4dd6-80a8-d98373fe-fb46152b-230605104019.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/df9ca13b-082a-4dd6-80a8-d98373fe-fb46152b-230605104019.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/df9ca13b-082a-4dd6-80a8-d98373fe-fb46152b-230605104019.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/df9ca13b-082a-4dd6-80a8-d98373fe-fb46152b-230605104019.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/df9ca13b-082a-4dd6-80a8-d98373fe-fb46152b-230605104019.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959026,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Cơm Gà Xối Mắm",
+                        "display_order": -1,
+                        "total_like": "100+",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "43,000đ",
+                            "unit": "đ",
+                            "value": 43000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/a36992eb-e757-496f-a8df-5ca3402d-91a97ec8-230605104243.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/a36992eb-e757-496f-a8df-5ca3402d-91a97ec8-230605104243.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/a36992eb-e757-496f-a8df-5ca3402d-91a97ec8-230605104243.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/a36992eb-e757-496f-a8df-5ca3402d-91a97ec8-230605104243.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/a36992eb-e757-496f-a8df-5ca3402d-91a97ec8-230605104243.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/a36992eb-e757-496f-a8df-5ca3402d-91a97ec8-230605104243.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959028,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Cơm Rang Dưa Bò",
+                        "display_order": -3,
+                        "total_like": "100+",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "38,000đ",
+                            "unit": "đ",
+                            "value": 38000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/19220d05-c001-4f84-9da2-8162e989-1faa2deb-230605104413.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/19220d05-c001-4f84-9da2-8162e989-1faa2deb-230605104413.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/19220d05-c001-4f84-9da2-8162e989-1faa2deb-230605104413.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/19220d05-c001-4f84-9da2-8162e989-1faa2deb-230605104413.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/19220d05-c001-4f84-9da2-8162e989-1faa2deb-230605104413.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/19220d05-c001-4f84-9da2-8162e989-1faa2deb-230605104413.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959030,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Cơm Rang Thập Cẩm",
+                        "display_order": -4,
+                        "total_like": "100+",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "43,000đ",
+                            "unit": "đ",
+                            "value": 43000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/23b57436-5c8a-4140-b371-d273dad3-02ebbbc6-230605104313.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/23b57436-5c8a-4140-b371-d273dad3-02ebbbc6-230605104313.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/23b57436-5c8a-4140-b371-d273dad3-02ebbbc6-230605104313.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/23b57436-5c8a-4140-b371-d273dad3-02ebbbc6-230605104313.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/23b57436-5c8a-4140-b371-d273dad3-02ebbbc6-230605104313.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/23b57436-5c8a-4140-b371-d273dad3-02ebbbc6-230605104313.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959027,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Cơm Rang Cải Bò",
+                        "display_order": -2,
+                        "total_like": "50+",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "50,000đ",
+                            "unit": "đ",
+                            "value": 50000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/e780973c-be37-4084-a420-bc14b435-de71df71-230605103950.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/e780973c-be37-4084-a420-bc14b435-de71df71-230605103950.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/e780973c-be37-4084-a420-bc14b435-de71df71-230605103950.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/e780973c-be37-4084-a420-bc14b435-de71df71-230605103950.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/e780973c-be37-4084-a420-bc14b435-de71df71-230605103950.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/e780973c-be37-4084-a420-bc14b435-de71df71-230605103950.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959040,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Phở Xào mềm",
+                        "display_order": -3,
+                        "total_like": "100+",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "Sườn sụn sốt chua ngotj",
+                        "price": {
+                            "text": "55,000đ",
+                            "unit": "đ",
+                            "value": 55000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/2e28b222-c955-41b1-ab8d-5d1ac2c2-2b5e8776-230605104054.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/2e28b222-c955-41b1-ab8d-5d1ac2c2-2b5e8776-230605104054.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/2e28b222-c955-41b1-ab8d-5d1ac2c2-2b5e8776-230605104054.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/2e28b222-c955-41b1-ab8d-5d1ac2c2-2b5e8776-230605104054.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/2e28b222-c955-41b1-ab8d-5d1ac2c2-2b5e8776-230605104054.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/2e28b222-c955-41b1-ab8d-5d1ac2c2-2b5e8776-230605104054.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 10420507,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Cơm sườn sốt ngũ vị",
+                        "display_order": 0,
+                        "total_like": "10+",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "50,000đ",
+                            "unit": "đ",
+                            "value": 50000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/2f29715e-be04-4b32-9b6f-ac6056e2-8323bfba-210805145843.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/2f29715e-be04-4b32-9b6f-ac6056e2-8323bfba-210805145843.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/2f29715e-be04-4b32-9b6f-ac6056e2-8323bfba-210805145843.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/2f29715e-be04-4b32-9b6f-ac6056e2-8323bfba-210805145843.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/2f29715e-be04-4b32-9b6f-ac6056e2-8323bfba-210805145843.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/2f29715e-be04-4b32-9b6f-ac6056e2-8323bfba-210805145843.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 12805646,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Mì xào mềm",
+                        "display_order": 0,
+                        "total_like": "10+",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "18,000đ",
+                            "unit": "đ",
+                            "value": 18000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 27621793,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Trứng ốp ( 2quả)",
+                        "display_order": 0,
+                        "total_like": "6",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "65,000đ",
+                            "unit": "đ",
+                            "value": 65000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/044c32ef-b4fe-48c0-89be-22e9271b-85686856-230605104215.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/044c32ef-b4fe-48c0-89be-22e9271b-85686856-230605104215.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/044c32ef-b4fe-48c0-89be-22e9271b-85686856-230605104215.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/044c32ef-b4fe-48c0-89be-22e9271b-85686856-230605104215.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/044c32ef-b4fe-48c0-89be-22e9271b-85686856-230605104215.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/044c32ef-b4fe-48c0-89be-22e9271b-85686856-230605104215.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959037,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Phở Chiên Giòn",
+                        "display_order": -2,
+                        "total_like": "10+",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "42,000đ",
+                            "unit": "đ",
+                            "value": 42000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 29618530,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Đùi gà sốt",
+                        "display_order": 0,
+                        "total_like": "4",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "65,000đ",
+                            "unit": "đ",
+                            "value": 65000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/2293ec36-ac05-4b81-aa38-fd93e9cc8f37.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/2293ec36-ac05-4b81-aa38-fd93e9cc8f37.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/2293ec36-ac05-4b81-aa38-fd93e9cc8f37.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/2293ec36-ac05-4b81-aa38-fd93e9cc8f37.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/2293ec36-ac05-4b81-aa38-fd93e9cc8f37.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/2293ec36-ac05-4b81-aa38-fd93e9cc8f37.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959032,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Mỳ Tôm chiên Giòn",
+                        "display_order": -5,
+                        "total_like": "4",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "18,000đ",
+                            "unit": "đ",
+                            "value": 18000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/bb3b2e8d-2f93-48a3-9789-195c42ed-490dd615-230605104350.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/bb3b2e8d-2f93-48a3-9789-195c42ed-490dd615-230605104350.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/bb3b2e8d-2f93-48a3-9789-195c42ed-490dd615-230605104350.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/bb3b2e8d-2f93-48a3-9789-195c42ed-490dd615-230605104350.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/bb3b2e8d-2f93-48a3-9789-195c42ed-490dd615-230605104350.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/bb3b2e8d-2f93-48a3-9789-195c42ed-490dd615-230605104350.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 27222583,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Cơm rang thêm",
+                        "display_order": 0,
+                        "total_like": "7",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "dish_type_id": 102213,
+                "dish_type_name": "PHỞ",
+                "dishes": [
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "6,000đ",
+                            "unit": "đ",
+                            "value": 6000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/97f712f0-1f7b-4ee0-8534-88427a0f-14cd4803-210805145942.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/97f712f0-1f7b-4ee0-8534-88427a0f-14cd4803-210805145942.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/97f712f0-1f7b-4ee0-8534-88427a0f-14cd4803-210805145942.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/97f712f0-1f7b-4ee0-8534-88427a0f-14cd4803-210805145942.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/97f712f0-1f7b-4ee0-8534-88427a0f-14cd4803-210805145942.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/97f712f0-1f7b-4ee0-8534-88427a0f-14cd4803-210805145942.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 12699648,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Quẩy(3 cái)",
+                        "display_order": 0,
+                        "total_like": "50+",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "Đã bao gồm hộp đi kemf",
+                        "price": {
+                            "text": "40,000đ",
+                            "unit": "đ",
+                            "value": 40000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/fd3fffdc-76d3-410b-8953-0972da1505ba.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/fd3fffdc-76d3-410b-8953-0972da1505ba.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/fd3fffdc-76d3-410b-8953-0972da1505ba.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/fd3fffdc-76d3-410b-8953-0972da1505ba.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/fd3fffdc-76d3-410b-8953-0972da1505ba.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/fd3fffdc-76d3-410b-8953-0972da1505ba.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959063,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Phở Chín",
+                        "display_order": -11,
+                        "total_like": "10+",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "Đã bao gồm hôpj",
+                        "price": {
+                            "text": "45,000đ",
+                            "unit": "đ",
+                            "value": 45000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/472e72d9-9686-4be8-a983-cd97f843f844.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/472e72d9-9686-4be8-a983-cd97f843f844.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/472e72d9-9686-4be8-a983-cd97f843f844.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/472e72d9-9686-4be8-a983-cd97f843f844.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/472e72d9-9686-4be8-a983-cd97f843f844.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/472e72d9-9686-4be8-a983-cd97f843f844.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959060,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Phở Tái Chín",
+                        "display_order": -9,
+                        "total_like": "10+",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "Đã bao gồm hôpj",
+                        "price": {
+                            "text": "55,000đ",
+                            "unit": "đ",
+                            "value": 55000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/9f2f02e2-4e72-452b-92ee-1b38b57d080a.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/9f2f02e2-4e72-452b-92ee-1b38b57d080a.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/9f2f02e2-4e72-452b-92ee-1b38b57d080a.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/9f2f02e2-4e72-452b-92ee-1b38b57d080a.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/9f2f02e2-4e72-452b-92ee-1b38b57d080a.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/9f2f02e2-4e72-452b-92ee-1b38b57d080a.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959046,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Phở Tái Gầu",
+                        "display_order": -5,
+                        "total_like": "10+",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "Đã bao gồm hôpj",
+                        "price": {
+                            "text": "40,000đ",
+                            "unit": "đ",
+                            "value": 40000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/440ddd40-2d9f-4742-a2ab-fbf7aaab8546.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/440ddd40-2d9f-4742-a2ab-fbf7aaab8546.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/440ddd40-2d9f-4742-a2ab-fbf7aaab8546.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/440ddd40-2d9f-4742-a2ab-fbf7aaab8546.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/440ddd40-2d9f-4742-a2ab-fbf7aaab8546.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/440ddd40-2d9f-4742-a2ab-fbf7aaab8546.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959061,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Phở Tái",
+                        "display_order": -10,
+                        "total_like": "10+",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "8,000đ",
+                            "unit": "đ",
+                            "value": 8000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/778326de-464e-4a25-a331-fae38458-1c5ac644-221110152241.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 27621789,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Trứng trần",
+                        "display_order": 0,
+                        "total_like": "3",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "Đã bao gồm hộp đi kemf",
+                        "price": {
+                            "text": "58,000đ",
+                            "unit": "đ",
+                            "value": 58000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/9b5f9df5-5cb7-4c24-9e89-7f88f9223cfb.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/9b5f9df5-5cb7-4c24-9e89-7f88f9223cfb.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/9b5f9df5-5cb7-4c24-9e89-7f88f9223cfb.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/9b5f9df5-5cb7-4c24-9e89-7f88f9223cfb.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/9b5f9df5-5cb7-4c24-9e89-7f88f9223cfb.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/9b5f9df5-5cb7-4c24-9e89-7f88f9223cfb.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959044,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Phở Bắp Nạm",
+                        "display_order": -4,
+                        "total_like": "6",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "Đã có hôpj",
+                        "price": {
+                            "text": "65,000đ",
+                            "unit": "đ",
+                            "value": 65000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/6be534c5-7b3f-4ec0-9e99-6a98dd0f52cc.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/6be534c5-7b3f-4ec0-9e99-6a98dd0f52cc.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/6be534c5-7b3f-4ec0-9e99-6a98dd0f52cc.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/6be534c5-7b3f-4ec0-9e99-6a98dd0f52cc.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/6be534c5-7b3f-4ec0-9e99-6a98dd0f52cc.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/6be534c5-7b3f-4ec0-9e99-6a98dd0f52cc.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959034,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Phở Đặc Biệt",
+                        "display_order": -1,
+                        "total_like": "10+",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "55,000đ",
+                            "unit": "đ",
+                            "value": 55000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/2017129154851-pho-tai-nam.jpg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/2017129154851-pho-tai-nam.jpg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/2017129154851-pho-tai-nam.jpg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/2017129154851-pho-tai-nam.jpg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/2017129154851-pho-tai-nam.jpg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/2017129154851-pho-tai-nam.jpg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959054,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Phở Tái Nạm",
+                        "display_order": -8,
+                        "total_like": "3",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "Đã bao gồm hôpj",
+                        "price": {
+                            "text": "58,000đ",
+                            "unit": "đ",
+                            "value": 58000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/bc7ea22a-cdab-4575-b725-08f9e393e3df.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/bc7ea22a-cdab-4575-b725-08f9e393e3df.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/bc7ea22a-cdab-4575-b725-08f9e393e3df.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/bc7ea22a-cdab-4575-b725-08f9e393e3df.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/bc7ea22a-cdab-4575-b725-08f9e393e3df.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/bc7ea22a-cdab-4575-b725-08f9e393e3df.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959050,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Phở Tái Bắp",
+                        "display_order": -7,
+                        "total_like": "4",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "Đã bao gồm hôpj",
+                        "price": {
+                            "text": "60,000đ",
+                            "unit": "đ",
+                            "value": 60000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/bf096fa2-5ea5-47e4-a235-5b2232f6c7e0.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/bf096fa2-5ea5-47e4-a235-5b2232f6c7e0.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/bf096fa2-5ea5-47e4-a235-5b2232f6c7e0.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/bf096fa2-5ea5-47e4-a235-5b2232f6c7e0.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/bf096fa2-5ea5-47e4-a235-5b2232f6c7e0.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/bf096fa2-5ea5-47e4-a235-5b2232f6c7e0.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 959048,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Phở Tái Lăn",
+                        "display_order": -6,
+                        "total_like": "5",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "55,000đ",
+                            "unit": "đ",
+                            "value": 55000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/default/s120x120/shopeefood-deli-dish-no-image.png",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/default/s180x180/shopeefood-deli-dish-no-image.png",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/default/s400x400/shopeefood-deli-dish-no-image.png",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/default/s560x560/shopeefood-deli-dish-no-image.png",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/default/s750x750/shopeefood-deli-dish-no-image.png",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/default/s1242x2208/shopeefood-deli-dish-no-image.png",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 158016077,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Nạm gầu",
+                        "display_order": 0,
+                        "total_like": "0",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "45,000đ",
+                            "unit": "đ",
+                            "value": 45000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/default/s120x120/shopeefood-deli-dish-no-image.png",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/default/s180x180/shopeefood-deli-dish-no-image.png",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/default/s400x400/shopeefood-deli-dish-no-image.png",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/default/s560x560/shopeefood-deli-dish-no-image.png",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/default/s750x750/shopeefood-deli-dish-no-image.png",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/default/s1242x2208/shopeefood-deli-dish-no-image.png",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 158569838,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Phở gà",
+                        "display_order": 0,
+                        "total_like": "0",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "55,000đ",
+                            "unit": "đ",
+                            "value": 55000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/default/s120x120/shopeefood-deli-dish-no-image.png",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/default/s180x180/shopeefood-deli-dish-no-image.png",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/default/s400x400/shopeefood-deli-dish-no-image.png",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/default/s560x560/shopeefood-deli-dish-no-image.png",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/default/s750x750/shopeefood-deli-dish-no-image.png",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/default/s1242x2208/shopeefood-deli-dish-no-image.png",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 158016088,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Phở Gầu",
+                        "display_order": 0,
+                        "total_like": "0",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "55,000đ",
+                            "unit": "đ",
+                            "value": 55000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/default/s120x120/shopeefood-deli-dish-no-image.png",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/default/s180x180/shopeefood-deli-dish-no-image.png",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/default/s400x400/shopeefood-deli-dish-no-image.png",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/default/s560x560/shopeefood-deli-dish-no-image.png",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/default/s750x750/shopeefood-deli-dish-no-image.png",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/default/s1242x2208/shopeefood-deli-dish-no-image.png",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 158016085,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Phở Nạm",
+                        "display_order": 0,
+                        "total_like": "0",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "dish_type_id": 1842300,
+                "dish_type_name": "Nước ngọt",
+                "dishes": [
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "20,000đ",
+                            "unit": "đ",
+                            "value": 20000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/6fcaafce-cb68-417b-846e-28a94b3d-dec66c90-210805150650.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/6fcaafce-cb68-417b-846e-28a94b3d-dec66c90-210805150650.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/6fcaafce-cb68-417b-846e-28a94b3d-dec66c90-210805150650.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/6fcaafce-cb68-417b-846e-28a94b3d-dec66c90-210805150650.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/6fcaafce-cb68-417b-846e-28a94b3d-dec66c90-210805150650.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/6fcaafce-cb68-417b-846e-28a94b3d-dec66c90-210805150650.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 17185568,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Trà chanh",
+                        "display_order": 0,
+                        "total_like": "7",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "12,000đ",
+                            "unit": "đ",
+                            "value": 12000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/4930c15a-5d65-4361-9b2c-759bd62e-d1826090-210623081137.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/4930c15a-5d65-4361-9b2c-759bd62e-d1826090-210623081137.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/4930c15a-5d65-4361-9b2c-759bd62e-d1826090-210623081137.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/4930c15a-5d65-4361-9b2c-759bd62e-d1826090-210623081137.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/4930c15a-5d65-4361-9b2c-759bd62e-d1826090-210623081137.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/4930c15a-5d65-4361-9b2c-759bd62e-d1826090-210623081137.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 16576726,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Coca/ pepsi",
+                        "display_order": 0,
+                        "total_like": "1",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "12,000đ",
+                            "unit": "đ",
+                            "value": 12000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g64/638675/s120x120/2940e7a8-6d9c-4d2c-8a05-cae9eaa7-6fac2f25-230601130135.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g64/638675/s180x180/2940e7a8-6d9c-4d2c-8a05-cae9eaa7-6fac2f25-230601130135.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g64/638675/s400x400/2940e7a8-6d9c-4d2c-8a05-cae9eaa7-6fac2f25-230601130135.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g64/638675/s570x570/2940e7a8-6d9c-4d2c-8a05-cae9eaa7-6fac2f25-230601130135.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g64/638675/s750x750/2940e7a8-6d9c-4d2c-8a05-cae9eaa7-6fac2f25-230601130135.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g64/638675/s1242x1242/2940e7a8-6d9c-4d2c-8a05-cae9eaa7-6fac2f25-230601130135.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 155861205,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "7up/ spirt (chai nhựa)",
+                        "display_order": 0,
+                        "total_like": "0",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "20,000đ",
+                            "unit": "đ",
+                            "value": 20000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/default/s120x120/shopeefood-deli-dish-no-image.png",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/default/s180x180/shopeefood-deli-dish-no-image.png",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/default/s400x400/shopeefood-deli-dish-no-image.png",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/default/s560x560/shopeefood-deli-dish-no-image.png",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/default/s750x750/shopeefood-deli-dish-no-image.png",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/default/s1242x2208/shopeefood-deli-dish-no-image.png",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 159223951,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Bò húc",
+                        "display_order": 0,
+                        "total_like": "0",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "20,000đ",
+                            "unit": "đ",
+                            "value": 20000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/default/s120x120/shopeefood-deli-dish-no-image.png",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/default/s180x180/shopeefood-deli-dish-no-image.png",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/default/s400x400/shopeefood-deli-dish-no-image.png",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/default/s560x560/shopeefood-deli-dish-no-image.png",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/default/s750x750/shopeefood-deli-dish-no-image.png",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/default/s1242x2208/shopeefood-deli-dish-no-image.png",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 159223946,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Cam lon",
+                        "display_order": 0,
+                        "total_like": "0",
+                        "properties": [],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    },
+                    {
+                        "description": "",
+                        "price": {
+                            "text": "20,000đ",
+                            "unit": "đ",
+                            "value": 20000.0
+                        },
+                        "is_active": true,
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/default/s120x120/shopeefood-deli-dish-no-image.png",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/default/s180x180/shopeefood-deli-dish-no-image.png",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/default/s400x400/shopeefood-deli-dish-no-image.png",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/default/s560x560/shopeefood-deli-dish-no-image.png",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/default/s750x750/shopeefood-deli-dish-no-image.png",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/default/s1242x2208/shopeefood-deli-dish-no-image.png",
+                                "height": 1242
+                            }
+                        ],
+                        "is_available": true,
+                        "id": 159223955,
+                        "is_group_discount_item": true,
+                        "is_deleted": false,
+                        "name": "Bia sài gòn",
+                        "display_order": 0,
+                        "total_like": "0",
+                        "properties": [
+                            {
+                                "description": "",
+                                "image_name": "",
+                                "photos": [
+                                    {
+                                        "width": 80,
+                                        "value": "https://images.foody.vn/default/s80x80/shopeefood-deli-res-bg-no-image.png",
+                                        "height": 80
+                                    },
+                                    {
+                                        "width": 200,
+                                        "value": "https://images.foody.vn/default/s200x200/shopeefood-deli-res-bg-no-image.png",
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 320,
+                                        "value": "https://images.foody.vn/default/s320x320/shopeefood-deli-res-bg-no-image.png",
+                                        "height": 320
+                                    }
+                                ],
+                                "name_en": "Alcohol",
+                                "type": 1,
+                                "id": 100,
+                                "name": "Alcohol"
+                            }
+                        ],
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "options": [],
+                        "quantity": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "result": "success"
+}

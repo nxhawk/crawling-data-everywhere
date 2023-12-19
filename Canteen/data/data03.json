@@ -1,0 +1,505 @@
+{
+    "reply": {
+        "menu_infos": [
+            {
+                "dish_type_id": 7047768,
+                "dish_type_name": "MÓN CHÍNH",
+                "dishes": [
+                    {
+                        "is_deleted": false,
+                        "description": "Gồm có: 2 Tôm , 1 mực, thịt băm,    \ngan, trứng cút, tóp mỡ\n đã bao gồm hộp mang về 5.000đ",
+                        "price": {
+                            "text": "70,000đ",
+                            "unit": "đ",
+                            "value": 70000.0
+                        },
+                        "is_active": true,
+                        "display_order": 0,
+                        "total_like": "2",
+                        "properties": [],
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s120x120/c9d1e366-1bd2-4d6e-814b-03306e4e-f78b3296-231219101308.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s180x180/c9d1e366-1bd2-4d6e-814b-03306e4e-f78b3296-231219101308.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s400x400/c9d1e366-1bd2-4d6e-814b-03306e4e-f78b3296-231219101308.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s570x570/c9d1e366-1bd2-4d6e-814b-03306e4e-f78b3296-231219101308.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s750x750/c9d1e366-1bd2-4d6e-814b-03306e4e-f78b3296-231219101308.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s1242x1242/c9d1e366-1bd2-4d6e-814b-03306e4e-f78b3296-231219101308.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "options": [
+                            {
+                                "ntop": "",
+                                "mandatory": false,
+                                "id": 1236931,
+                                "option_items": {
+                                    "min_select": 0,
+                                    "max_select": 2,
+                                    "items": [
+                                        {
+                                            "name": "Quẩy (3 cái)",
+                                            "weight": 1,
+                                            "ntop_price": {
+                                                "text": "0đ",
+                                                "value": 0,
+                                                "unit": "đ"
+                                            },
+                                            "max_quantity": 1,
+                                            "id": 7258459,
+                                            "is_default": false,
+                                            "top_order": 0,
+                                            "price": {
+                                                "text": "10,000đ",
+                                                "value": 10000.0,
+                                                "unit": "đ"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "name": "ĂN KÈM"
+                            }
+                        ],
+                        "is_available": true,
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "quantity": 0,
+                        "id": 159901900,
+                        "is_group_discount_item": true,
+                        "name": "Hủ tiếu tôm mực trộn"
+                    },
+                    {
+                        "is_deleted": false,
+                        "description": "Hủ tiếu Bò kho + thêm hộp mang về 5.000đ",
+                        "price": {
+                            "text": "63,000đ",
+                            "unit": "đ",
+                            "value": 63000.0
+                        },
+                        "is_active": true,
+                        "display_order": 0,
+                        "total_like": "0",
+                        "properties": [],
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s120x120/7865ce10-dd36-496e-a028-e52e274e-0a7cadc2-231219101330.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s180x180/7865ce10-dd36-496e-a028-e52e274e-0a7cadc2-231219101330.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s400x400/7865ce10-dd36-496e-a028-e52e274e-0a7cadc2-231219101330.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s570x570/7865ce10-dd36-496e-a028-e52e274e-0a7cadc2-231219101330.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s750x750/7865ce10-dd36-496e-a028-e52e274e-0a7cadc2-231219101330.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s1242x1242/7865ce10-dd36-496e-a028-e52e274e-0a7cadc2-231219101330.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "options": [
+                            {
+                                "ntop": "",
+                                "mandatory": false,
+                                "id": 1236931,
+                                "option_items": {
+                                    "min_select": 0,
+                                    "max_select": 2,
+                                    "items": [
+                                        {
+                                            "name": "Quẩy (3 cái)",
+                                            "weight": 1,
+                                            "ntop_price": {
+                                                "text": "0đ",
+                                                "value": 0,
+                                                "unit": "đ"
+                                            },
+                                            "max_quantity": 1,
+                                            "id": 7258459,
+                                            "is_default": false,
+                                            "top_order": 0,
+                                            "price": {
+                                                "text": "10,000đ",
+                                                "value": 10000.0,
+                                                "unit": "đ"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "name": "ĂN KÈM"
+                            }
+                        ],
+                        "is_available": true,
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "quantity": 0,
+                        "id": 159901907,
+                        "is_group_discount_item": true,
+                        "name": "Hủ tiếu bò kho"
+                    },
+                    {
+                        "is_deleted": false,
+                        "description": "Gồm có: 2 Tôm , 1 mực, thịt băm,    \ngan, trứng cút, tóp mỡ\n đã bao gồm hộp mang về 5.000đ",
+                        "price": {
+                            "text": "70,000đ",
+                            "unit": "đ",
+                            "value": 70000.0
+                        },
+                        "is_active": true,
+                        "display_order": 0,
+                        "total_like": "0",
+                        "properties": [],
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s120x120/084b3895-6349-430a-beee-6cbb62cd-ba50d228-231219101249.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s180x180/084b3895-6349-430a-beee-6cbb62cd-ba50d228-231219101249.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s400x400/084b3895-6349-430a-beee-6cbb62cd-ba50d228-231219101249.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s570x570/084b3895-6349-430a-beee-6cbb62cd-ba50d228-231219101249.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s750x750/084b3895-6349-430a-beee-6cbb62cd-ba50d228-231219101249.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s1242x1242/084b3895-6349-430a-beee-6cbb62cd-ba50d228-231219101249.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "options": [
+                            {
+                                "ntop": "",
+                                "mandatory": false,
+                                "id": 1236931,
+                                "option_items": {
+                                    "min_select": 0,
+                                    "max_select": 2,
+                                    "items": [
+                                        {
+                                            "name": "Quẩy (3 cái)",
+                                            "weight": 1,
+                                            "ntop_price": {
+                                                "text": "0đ",
+                                                "value": 0,
+                                                "unit": "đ"
+                                            },
+                                            "max_quantity": 1,
+                                            "id": 7258459,
+                                            "is_default": false,
+                                            "top_order": 0,
+                                            "price": {
+                                                "text": "10,000đ",
+                                                "value": 10000.0,
+                                                "unit": "đ"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "name": "ĂN KÈM"
+                            }
+                        ],
+                        "is_available": true,
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "quantity": 0,
+                        "id": 159901904,
+                        "is_group_discount_item": true,
+                        "name": "Hủ tiếu tôm mực nước"
+                    },
+                    {
+                        "is_deleted": false,
+                        "description": "Bánh mỳ + bò kho + hộp mang về 5.000đ",
+                        "price": {
+                            "text": "63,000đ",
+                            "unit": "đ",
+                            "value": 63000.0
+                        },
+                        "is_active": true,
+                        "display_order": 0,
+                        "total_like": "0",
+                        "properties": [],
+                        "photos": [
+                            {
+                                "width": 120,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s120x120/5bcefa56-9b34-42d1-8414-a15f305e-9aff6b8a-231219101201.jpeg",
+                                "height": 120
+                            },
+                            {
+                                "width": 180,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s180x180/5bcefa56-9b34-42d1-8414-a15f305e-9aff6b8a-231219101201.jpeg",
+                                "height": 180
+                            },
+                            {
+                                "width": 400,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s400x400/5bcefa56-9b34-42d1-8414-a15f305e-9aff6b8a-231219101201.jpeg",
+                                "height": 400
+                            },
+                            {
+                                "width": 560,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s570x570/5bcefa56-9b34-42d1-8414-a15f305e-9aff6b8a-231219101201.jpeg",
+                                "height": 560
+                            },
+                            {
+                                "width": 750,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s750x750/5bcefa56-9b34-42d1-8414-a15f305e-9aff6b8a-231219101201.jpeg",
+                                "height": 750
+                            },
+                            {
+                                "width": 1242,
+                                "value": "https://images.foody.vn/res/g100008/1000072311/s1242x1242/5bcefa56-9b34-42d1-8414-a15f305e-9aff6b8a-231219101201.jpeg",
+                                "height": 1242
+                            }
+                        ],
+                        "options": [
+                            {
+                                "ntop": "",
+                                "mandatory": false,
+                                "id": 1236931,
+                                "option_items": {
+                                    "min_select": 0,
+                                    "max_select": 2,
+                                    "items": [
+                                        {
+                                            "name": "Quẩy (3 cái)",
+                                            "weight": 1,
+                                            "ntop_price": {
+                                                "text": "0đ",
+                                                "value": 0,
+                                                "unit": "đ"
+                                            },
+                                            "max_quantity": 1,
+                                            "id": 7258459,
+                                            "is_default": false,
+                                            "top_order": 0,
+                                            "price": {
+                                                "text": "10,000đ",
+                                                "value": 10000.0,
+                                                "unit": "đ"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "name": "ĂN KÈM"
+                            }
+                        ],
+                        "is_available": true,
+                        "time": {
+                            "available": [],
+                            "week_days": [
+                                {
+                                    "start": "00:00",
+                                    "week_day": 1,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 2,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 3,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 4,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 5,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 6,
+                                    "end": "23:59"
+                                },
+                                {
+                                    "start": "00:00",
+                                    "week_day": 7,
+                                    "end": "23:59"
+                                }
+                            ],
+                            "not_available": []
+                        },
+                        "quantity": 0,
+                        "id": 159901910,
+                        "is_group_discount_item": true,
+                        "name": "Bánh mỳ bò kho"
+                    }
+                ]
+            }
+        ]
+    },
+    "result": "success"
+}
